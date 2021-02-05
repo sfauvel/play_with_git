@@ -1,0 +1,14 @@
+= Play with Git
+
+run script:
+----
+./play_with_git.sh [test case]
+----
+
+
+To get list of `test_case`, run script without parameters.
+
+
+Resources:
+
+* link:https://github.com/eficode-academy/git-katas[]
