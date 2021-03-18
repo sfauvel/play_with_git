@@ -12,3 +12,5 @@ To get list of `test_case`, run script without parameters.
 Resources:
 
 * link:https://github.com/eficode-academy/git-katas[]
+* link:http://blog.schauderhaft.de/gitkata/
+* source-tree: Affichage
